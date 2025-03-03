@@ -496,3 +496,60 @@ body,
     transform: scale(0.95); /* Press Effect */
     opacity: 0.8;
 }
+
+/* === Left Side Buttons (Silent & Volume) === */
+.left-buttons {
+    position: fixed;
+    left: 578px; /* Fully left */
+    top: 135px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px; /* Space between buttons */
+    z-index: 999;
+    gap: 25px;
+}
+
+.volume-buttons {
+    margin-top: 10px; /* Adjust this value to move it further down */
+}
+
+.volume-up, .volume-down {
+    margin-top: 15px; /* Moves both volume buttons slightly lower */
+}
+
+/* === Right Side Button (Power) === */
+.right-buttons {
+    position: fixed;
+    right: 578px; /* Fully right */
+    top: 240px;
+    z-index: 999;
+}
+
+/* === General Button Style === */
+.side-button {
+    width: 6px; /* Thin like real iPhone buttons */
+    border-radius: 3px;
+    background: black;
+    transition: transform 0.25s ease-in-out, background 0.25s ease-in-out;
+    cursor: pointer;
+}
+
+/* Silent Switch (Smallest) */
+.silent-button {
+    height: 25px;
+}
+
+/* Volume Buttons (Medium) */
+.volume-up, .volume-down {
+    height: 40px;
+}
+
+/* Power Button (Longest) */
+.power-button {
+    height: 60px; /* Slightly longer for realism */
+}
+
+.dark-mode .side-button {
+    background: white;  /* Change to white in dark mode */
+}
+
