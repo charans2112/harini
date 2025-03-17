@@ -19,7 +19,7 @@ document.getElementById("login-form").addEventListener("submit", async function(
 
     // Precomputed SHA-256 hashes
     const correctHashedUsername = "9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08";
-    const correctHashedPassword = "9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08"; 
+    const correctHashedPassword = "1cc14457b23ea3d51b292eecd8dc517c56c109a7babbb4e2312c272a209d8585"; 
 
     if (hashedUsername === correctHashedUsername && hashedPassword === correctHashedPassword) {
         sessionStorage.setItem("authenticated", "true"); // Store session authentication
