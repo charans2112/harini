@@ -77,7 +77,7 @@ document.addEventListener("DOMContentLoaded", function () {
     
         filteredData.forEach(chat => {
             let div = document.createElement("div");
-            div.classList.add("chat-message", chat.sender === "Chinni" ? "sent" : "received");
+            div.classList.add("chat-message", chat.sender === "Harini" ? "sent" : "received");
     
             div.innerHTML = `
                 <img src="${chat.profilePic || 'default-avatar.png'}" class="profile-pic">
