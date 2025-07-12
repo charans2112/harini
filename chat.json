@@ -1,14 +1,64 @@
 [
-    { "sender": "Chinni", "message": "Hey Charan! How are you?", "profilePic": "chinni.jpg", "date": "2024-02-20T10:00:00" },
-    { "sender": "Charan Reddy", "message": "Hey Chinni! I'm good, how about you?", "profilePic": "charan.jpg", "date": "2024-02-20T10:02:00" },
-    { "sender": "Chinni", "message": "I'm doing great! Let's catch up soon!", "profilePic": "chinni.jpg", "date": "2024-02-20T10:05:00" },
-    { "sender": "Charan Reddy", "message": "Sure, let’s plan for this weekend!", "profilePic": "charan.jpg", "date": "2024-02-20T10:07:00" },
-    { "sender": "Chinni", "message": "Sounds perfect! 😊", "profilePic": "chinni.jpg", "date": "2024-02-20T10:10:00" },
-    { "sender": "Charan Reddy", "message": "What time would be good for you?", "profilePic": "charan.jpg", "date": "2024-02-20T10:12:00" },
-    { "sender": "Chinni", "message": "How about 5 PM on Saturday?", "profilePic": "chinni.jpg", "date": "2024-02-20T10:15:00" },
-    { "sender": "Charan Reddy", "message": "That works! Where do you want to meet?", "profilePic": "charan.jpg", "date": "2024-02-20T10:17:00" },
-    { "sender": "Chinni", "message": "Maybe our favorite café? 😊", "profilePic": "chinni.jpg", "date": "2024-02-20T10:20:00" },
-    { "sender": "Charan Reddy", "message": "Sounds like a plan! Looking forward to it!", "profilePic": "charan.jpg", "date": "2024-02-20T10:22:00" },
-    { "sender": "Chinni", "message": "Me too! See you soon! ❤️", "profilePic": "chinni.jpg", "date": "2024-02-20T10:25:00" },
-    { "sender": "Charan Reddy", "message": "Take care, Chinni! 😊", "profilePic": "charan.jpg", "date": "2024-02-20T10:27:00" }
+    { "sender": "Siri", "message": "Name? 🤔", "profilePic": "siri.jpg", "date": "2024-02-20T08:00:00" },
+    { "sender": "Charan Reddy", "message": "Sirisha 🧚🏻‍♀️", "profilePic": "charan.jpg", "date": "2024-02-20T08:00:30" },
+
+    { "sender": "Siri", "message": "Also known as? 🧐", "profilePic": "siri.jpg", "date": "2024-02-20T08:01:00" },
+    { "sender": "Charan Reddy", "message": "Chaithra 🦋", "profilePic": "charan.jpg", "date": "2024-02-20T08:01:30" },
+
+    { "sender": "Siri", "message": "Meaning of Sirisha? 🔍", "profilePic": "siri.jpg", "date": "2024-02-20T08:02:00" },
+    { "sender": "Charan Reddy", "message": "Sacred Flower 🪻", "profilePic": "charan.jpg", "date": "2024-02-20T08:02:30" },
+
+    { "sender": "Siri", "message": "Meaning of Chaithra? 🔎", "profilePic": "siri.jpg", "date": "2024-02-20T08:03:00" },
+    { "sender": "Charan Reddy", "message": "A new and bright light 💡 or consciousness 🌀", "profilePic": "charan.jpg", "date": "2024-02-20T08:03:30" },
+
+    { "sender": "Siri", "message": "Any Nicknames? 🤨", "profilePic": "siri.jpg", "date": "2024-02-20T08:04:00" },
+    { "sender": "Charan Reddy", "message": "Siri 🤗", "profilePic": "charan.jpg", "date": "2024-02-20T08:04:30" },
+
+    { "sender": "Siri", "message": "Date of Birth? 🎂", "profilePic": "siri.jpg", "date": "2024-02-20T08:05:00" },
+    { "sender": "Charan Reddy", "message": "22nd March 2004 👼🏻", "profilePic": "charan.jpg", "date": "2024-02-20T08:05:30" },
+
+    { "sender": "Siri", "message": "Day of Birth? 📅", "profilePic": "siri.jpg", "date": "2024-02-20T08:06:00" },
+    { "sender": "Charan Reddy", "message": "Monday 🌞", "profilePic": "charan.jpg", "date": "2024-02-20T08:06:30" },
+
+    { "sender": "Siri", "message": "Birth Weight? ⚖️", "profilePic": "siri.jpg", "date": "2024-02-20T08:07:00" },
+    { "sender": "Charan Reddy", "message": "3 Kg ⚖️", "profilePic": "charan.jpg", "date": "2024-02-20T08:07:30" },
+
+    { "sender": "Siri", "message": "Time of Birth? ⏰", "profilePic": "siri.jpg", "date": "2024-02-20T08:08:00" },
+    { "sender": "Charan Reddy", "message": "06:45 PM 🕐", "profilePic": "charan.jpg", "date": "2024-02-20T08:08:30" },
+
+    { "sender": "Siri", "message": "Zodiac Sign? ♈", "profilePic": "siri.jpg", "date": "2024-02-20T08:09:00" },
+    { "sender": "Charan Reddy", "message": "Meena (Pisces) ♓", "profilePic": "charan.jpg", "date": "2024-02-20T08:09:30" },
+
+    { "sender": "Siri", "message": "Birth Star? 🌟", "profilePic": "siri.jpg", "date": "2024-02-20T08:10:00" },
+    { "sender": "Charan Reddy", "message": "Revati Nakshatra ✨", "profilePic": "charan.jpg", "date": "2024-02-20T08:10:30" },
+
+    { "sender": "Siri", "message": "Father's Name? 👨🏻‍👧🏻", "profilePic": "siri.jpg", "date": "2024-02-20T08:11:00" },
+    { "sender": "Charan Reddy", "message": "Narasimha 👨🏻‍👧🏻", "profilePic": "charan.jpg", "date": "2024-02-20T08:11:30" },
+
+    { "sender": "Siri", "message": "Mother's Name? 👩🏻‍👧🏻", "profilePic": "siri.jpg", "date": "2024-02-20T08:12:00" },
+    { "sender": "Charan Reddy", "message": "Chandrakala 👩🏻‍👧🏻", "profilePic": "charan.jpg", "date": "2024-02-20T08:12:30" },
+
+    { "sender": "Siri", "message": "Any message for me? 💌", "profilePic": "siri.jpg", "date": "2024-02-20T08:13:00" },
+    { "sender": "Charan Reddy", "message": "Of course! 😏", "profilePic": "charan.jpg", "date": "2024-02-20T08:13:30" },
+
+    { "sender": "Charan Reddy", "message": "🌟 HAPPY BIRTHDAY, SIRISHA! 🌟🎂🎈🎊", "profilePic": "charan.jpg", "date": "2024-02-20T08:14:00" },
+    { "sender": "Charan Reddy", "message": "Today isn’t just any day—it’s the day the universe decided to bless (or maybe curse 😆) the world with YOU!", "profilePic": "charan.jpg", "date": "2024-02-20T08:14:30" },
+    { "sender": "Charan Reddy", "message": "And honestly, I’m still trying to figure out if that was a genius move or a risky one. 🤔😂", "profilePic": "charan.jpg", "date": "2024-02-20T08:15:00" },
+    { "sender": "Charan Reddy", "message": "From the moment we became friends, life has been:", "profilePic": "charan.jpg", "date": "2024-02-20T08:15:30" },
+    { "sender": "Charan Reddy", "message": "🔥 99% laughter (mostly at your expense)", "profilePic": "charan.jpg", "date": "2024-02-20T08:16:00" },
+    { "sender": "Charan Reddy", "message": "🎭 70% arguments (which I always win 😎)", "profilePic": "charan.jpg", "date": "2024-02-20T08:16:30" },
+    { "sender": "Charan Reddy", "message": "😂 50% nonsense talks (pointless but somehow important)", "profilePic": "charan.jpg", "date": "2024-02-20T08:17:00" },
+    { "sender": "Charan Reddy", "message": "🫂 100% irreplaceable memories", "profilePic": "charan.jpg", "date": "2024-02-20T08:17:30" },
+    { "sender": "Charan Reddy", "message": "But let’s be real—you might be annoying, dramatic, and an absolute menace at times, but you’re also:", "profilePic": "charan.jpg", "date": "2024-02-20T08:18:00" },
+    { "sender": "Charan Reddy", "message": "💖 Caring beyond words", "profilePic": "charan.jpg", "date": "2024-02-20T08:18:30" },
+    { "sender": "Charan Reddy", "message": "🤣 The funniest person in unexpected ways", "profilePic": "charan.jpg", "date": "2024-02-20T08:19:00" },
+    { "sender": "Charan Reddy", "message": "🌸 Sweet (when I am not busy roasting you)", "profilePic": "charan.jpg", "date": "2024-02-20T08:19:30" },
+    { "sender": "Charan Reddy", "message": "💡 The most unpredictable friend ever", "profilePic": "charan.jpg", "date": "2024-02-20T08:20:00" },
+    { "sender": "Charan Reddy", "message": "🎊 HAPPY BIRTHDAY, SIRI! 🎊 Enjoy your day, eat all the cake, and remember—you’re special, you’re loved, and I’ll always have your back.", "profilePic": "charan.jpg", "date": "2024-02-20T08:20:30" },
+    { "sender": "Charan Reddy", "message": "🎁 P.S. My gift? My existence in your life. You’re welcome. 😂", "profilePic": "charan.jpg", "date": "2024-02-20T08:21:00" },
+
+    { "sender": "Charan Reddy", "message": "🎉 Click here for a surprise! 👉 <a href='https://charans2112.github.io/siri_star/' target='_blank'>🎁 Surprise Link 🎁</a>", "profilePic": "charan.jpg", "date": "2024-02-20T08:21:15" },
+
+
+    { "sender": "Siri", "message": "Typing.........", "profilePic": "siri.jpg", "date": "2024-02-20T08:21:30" }
 ]
