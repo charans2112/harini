@@ -168,7 +168,7 @@ body {
     flex: 1;
     padding: 10px;
     overflow-y: auto;
-    background-image: url('https://www.onlygfx.com/wp-content/uploads/2019/06/6-heart-pattern-1.png');
+    background-image: url('https://i.pinimg.com/736x/c7/c5/46/c7c546997c8974b963825e99dfc75989.jpg');
     background-size: cover;
     padding-bottom: 50px; /* Add space for input field */
     gap: 8px;
@@ -278,7 +278,7 @@ body {
 
 /* Light Mode Inside iPhone (For Dark Mode) */
 .dark-mode .chat-container {
-    background-image: url('https://www.onlygfx.com/wp-content/uploads/2019/06/6-heart-pattern-1.png'); /* Light love theme */
+    background-image: url('https://i.pinimg.com/736x/c7/c5/46/c7c546997c8974b963825e99dfc75989.jpg');
 }
 
 .dark-mode .sent {
